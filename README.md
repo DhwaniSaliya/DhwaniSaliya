@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 
-I am Dhwani Saliya, a third-year Computer Science undergrad. I am a lifelong learner and passionate about software development. Welcome to my GitHub profile!
+I am Dhwani Saliya, a final-year Computer Science undergrad. I am a lifelong learner and passionate about software development. Welcome to my GitHub profile!
 
 <div align="center">
     <h2>🚀 About Me</h2>
